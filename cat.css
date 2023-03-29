@@ -73,7 +73,7 @@ figure {
     border-color: #3882f6;
     border-width: 5px;
     border-radius: 15%;
-    margin-bottom: 5px;
+    margin-bottom: 7.5px;
 }
 
 
@@ -198,7 +198,7 @@ p {
 }
 
 .greytext {
-    color: #2c2b32;
+    color: #585858;
     font-size: 17px;
     text-align: center;
 }
